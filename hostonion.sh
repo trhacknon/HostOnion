@@ -7,10 +7,10 @@ echo -e "\033[1;93m ‎"
 figlet -f slant HostOnion
 sleep 1
 echo ""
-echo -e "              \033[1;91m  Author   \033[1;90m: \033[1;95mAnubhav Kashyap"
+echo -e "              \033[1;91m  Author   \033[1;90m: \033[1;95mtrhacknon"
 echo -e "              \033[1;93m  Group    \033[1;90m: \033[1;96mDeepweb Shadows"
 echo -e "              \033[1;92m Instagram \033[1;90m: \033[1;94m@anubhavanonymous"
-echo -e "              \033[1;97m  Github   \033[1;90m: \033[1;93mgithub.com/anubhavanonymous"
+echo -e "              \033[1;97m  Github   \033[1;90m: \033[1;93mgithub.com/trhacknon"
 echo ""
 echo -e ""
 sleep 1
@@ -21,7 +21,7 @@ apt install php -y
 apt install nano
 rm index.html
 echo -e $'\e[1;33m[\e[0m\e[1;77m HostOnion \e[0m\e[1;33m]\e[0m\e[1;32m ## Generating Webpage \e[0m'
-wget https://raw.githubusercontent.com/Deauthxploit/Nothing_much/main/index.html
+wget https://raw.githubusercontent.com/trhacknon/Nothing_much/main/index.html
 echo -e $'\e[1;33m[\e[0m\e[1;77m HostOnion \e[0m\e[1;33m]\e[0m\e[1;32m # Enter Details to display on the Webpage \e[0m'
 echo ""
 #Enter Full Name
@@ -69,7 +69,7 @@ rm hostname
 cd /data/data/com.termux/files/usr/etc/tor
 rm torrc
 echo -e $'\e[1;33m[\e[0m\e[1;77m HostOnion \e[0m\e[1;33m]\e[0m\e[1;32m ## Setting up TOR \e[0m'
-wget https://raw.githubusercontent.com/Deauthxploit/Nothing_much/main/torrc
+wget https://raw.githubusercontent.com/trhacknon/Nothing_much/main/torrc
 tor &
 sleep 60
 cd /data/data/com.termux/files/usr/var/lib/tor/hidden_service
