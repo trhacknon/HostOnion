@@ -8,8 +8,8 @@ figlet -f slant HostOnion
 sleep 1
 echo ""
 echo -e "              \033[1;91m  Author   \033[1;90m: \033[1;95mtrhacknon"
-echo -e "              \033[1;93m  Group    \033[1;90m: \033[1;96mDeepweb Shadows"
-echo -e "              \033[1;92m Instagram \033[1;90m: \033[1;94m@anubhavanonymous"
+echo -e "              \033[1;93m  Group    \033[1;90m: \033[1;96mtrhacknon"
+echo -e "              \033[1;92m Instagram \033[1;90m: \033[1;94m@trhacknon"
 echo -e "              \033[1;97m  Github   \033[1;90m: \033[1;93mgithub.com/trhacknon"
 echo ""
 echo -e ""
